@@ -1,2 +1,2 @@
 # Laiba_Lab2
-Creating my 1st project.
+Creating my 1st Lab project.
